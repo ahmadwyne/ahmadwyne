@@ -49,9 +49,9 @@ Here are some of the technologies and tools I work with:
 
 Here are some of my favorite projects I've worked on:
 
-- **[Skill Swap]**: A brief description of the project and its key technologies. 🔧
-- **[eVMS]**: A brief description of the project and its key technologies. ⚡
-- **[UML Editor]**: A brief description of the project and its key technologies. 💡
+- **[Skill Swap]**: A platform where users can exchange skills with others, providing an opportunity for skill development and learning through collaboration. 🔧
+- **[eVMS]**: A vehicle modification and repair mobile application made with java. ⚡
+- **[UML Editor]**: A desktop-based UML design tool developed in Java to create, edit, and manage class diagrams, and use-case diagrams for software construction and design projects. 💡
 
 You can check out the full list of projects in my repositories.
 
